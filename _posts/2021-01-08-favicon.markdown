@@ -9,8 +9,8 @@ categories: [jekyll, usage]
 1. 나의 이미지를 준비한다.
 2. https://www.favicon-generator.org/ 의 'Generate your favicon.ico'메뉴를 사용한다.
 
-<a href="//jjunghub.github.io/blog/assets/favicon.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="//jjunghub.github.io/blog/assets/favicon.jpg" title="Check out the Falcon 9 from SpaceX">
+<a href="//jjunghub.github.io/blog/assets/favicon.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
+  <img src="//jjunghub.github.io/blog/assets/favicon.png" title="Check out the Falcon 9 from SpaceX">
 </a>
 
 ### structure
