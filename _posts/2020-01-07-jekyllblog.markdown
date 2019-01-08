@@ -3,7 +3,8 @@ layout: post
 title:  "jekyll에 대해 알게된것들"
 date:   2019-01-07 0:00:00
 author: jjung
-categories: [jekyll, usage]
+categories: [jekyll, use]
+tags:
 ---
 
 jekyll로 블로그를 만들면서 배우게된 내용을 정리하는 곳입니다.

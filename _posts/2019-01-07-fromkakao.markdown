@@ -3,7 +3,8 @@ layout: post
 title:  "What I learned from Kakao arena project"
 date:   2019-01-08 0:00:00
 author: jjung
-categories: [From mistakes, kakao, AI]
+categories: [from mistakes, ai]
+tags: [deeplearning, kakao]
 ---
 
 관련 링크 : [카카오 아레나](https://arena.kakao.com/c/1), [개발코드](https://github.com/jjunghub/shopnet)

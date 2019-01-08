@@ -4,6 +4,7 @@ title:  "vscode tips"
 date:   2019-01-07 0:00:00
 author: jjung
 categories: [vscode, tips]
+tags:
 ---
 
 - `cmd + p` : 파일 이름으로 찾아서 실행

@@ -3,10 +3,14 @@ layout: post
 title:  "jekyll블로그 로고아이콘 달기 - favicon"
 date:   2019-01-07 0:00:00
 author: jjung
-categories: [jekyll, usage]
+categories: [jekyll, use]
+tags: [favicon]
 ---
 
 ## 잠깐, favicon 이란?
+
+> 파비콘(영어: favicon, 'favorites + icon') 또는 패비콘이란 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다.
+> [wiki](https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%B9%84%EC%BD%98)
 
 ---
 ## 이제 만들어보자!
