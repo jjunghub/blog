@@ -6,20 +6,20 @@ author: jjung
 categories: [jekyll, usage]
 ---
 
+## 잠깐, favicon 이란?
+
+---
+## 이제 만들어보자!
 1. 나의 이미지를 준비한다.
-2. https://www.favicon-generator.org/ 의 `Generate your favicon.ico`메뉴를 사용하여 나의 이미지를 여러 사이즈의 favicon으로 바꿔준다.
+2. [사이트](https://www.favicon-generator.org/) 의 *Generate your favicon.ico* 를 사용하여, 나의 이미지를 여러 사이즈의 favicon으로 바꿀 수 있다. 생성결과를 다운로드 한다.
+    <a href="//jjunghub.github.io/blog/assets/favicon.png" data-lightbox="favicon generate" data-title="Generate favicon from my image">
+      <img src="//jjunghub.github.io/blog/assets/favicon.png" title="Generate favicon from my image">
+    </a>
 
-<a href="//jjunghub.github.io/blog/assets/favicon.png" data-lightbox="favicon generate" data-title="Generate favicon from my image">
-  <img src="//jjunghub.github.io/blog/assets/favicon.png" title="Generate favicon from my image">
-</a>
+    <a href="//jjunghub.github.io/blog/assets/favicon2.png" data-lightbox="favicon generate" data-title="Generate favicon from my image">
+      <img src="//jjunghub.github.io/blog/assets/favicon2.png" title="Generate favicon from my image">
+    </a>
 
-<a href="//jjunghub.github.io/blog/assets/favicon2.png" data-lightbox="favicon generate" data-title="Generate favicon from my image">
-  <img src="//jjunghub.github.io/blog/assets/favicon2.png" title="Generate favicon from my image">
-</a>
+3. jekyll 프로젝트 파일의 `assets/icons/`경로에 다운받은 파일들을 복사한다.
 
-### structure
-- `_layouts` 폴더 : 각 페이지의 html형태가 정의되어있음
-- *.html, *.md 로 문서를 작성하면 layout에 정의된 것에 따라 변환이 이루어지는 듯
-
-### 사용하면서 느낀 장점
-
+끝! 귀여운 팽귀니가 로고가 되었다
