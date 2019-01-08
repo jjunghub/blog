@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "jekyll블로그 로고아이콘 달기 - favicon"
+date:   2019-01-07 0:00:00
+author: jjung
+categories: [jekyll, usage]
+---
+
+1. 나의 이미지를 준비한다.
+2. https://www.favicon-generator.org/ 의 'Generate your favicon.ico'메뉴를 사용한다.
+
+<a href="//jjunghub.github.io/blog/assets/favicon.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
+  <img src="//jjunghub.github.io/blog/assets/favicon.jpg" title="Check out the Falcon 9 from SpaceX">
+</a>
+
+### structure
+- `_layouts` 폴더 : 각 페이지의 html형태가 정의되어있음
+- *.html, *.md 로 문서를 작성하면 layout에 정의된 것에 따라 변환이 이루어지는 듯
+
+### 사용하면서 느낀 장점
+

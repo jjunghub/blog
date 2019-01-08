@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jekyllblog"
+title:  "jekyll에 대해 알게된것들"
 date:   2019-01-07 0:00:00
 author: jjung
 categories: [jekyll, usage]
