@@ -11,9 +11,14 @@ permalink: /about/
 학문보다는 실생활을 개선시킬 수 있는 실제적인 무언가를 생각하고, 실천하며 살기 위해 노력하고 있어요.
 
 {% highlight python %}
+  do = dict()
   want_to_do = dict()
   while live :
-      # What I want to do
+      # have done, doing
+      do['about TIME'] = True
+      do['better research ecosystem'] = True
+
+      # What I want to dov
       want_to_do['something for climate change'] = True
       want_to_do['something for endangered animals'] = True
 {% endhighlight %}
