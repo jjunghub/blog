@@ -16,8 +16,7 @@ permalink: /about/
   while live :
       # have done, doing
       do['about TIME'] = True
-      do['better research ecosystem'] = True
-
+      do['for better research ecosystem'] = True
       # What I want to dov
       want_to_do['something for climate change'] = True
       want_to_do['something for endangered animals'] = True
