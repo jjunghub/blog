@@ -17,13 +17,13 @@ deep network가 학습한 representation과 강화학습 agent의 귀납적 학�
 2. 시간 의존성 : 보상에 대해 지연된 시점에 학습하게 되며, 그 보상은 자주 있는 것이 아니라 sparse하게 주어진다.
 3. 상태 의존성 : 환경의 상태에 따라 어떤 액션에 대한 보상이 좌우된다. 적절한 액션을 취하기 위해 환경의 특성을 이해할 필요가 있다.
 
-정책(policy) : 주어진 호나경의 어떤 상황에서 어떤 에이전트가 취하게 되는 일련의 액션
+정책(policy) : 주어진 환경의 어떤 상황에서 어떤 에이전트가 취하게 되는 일련의 액션
 
 
 
-1. [multi-armed bandit problem](link:) (action dependency - T, time dependeny - F, context dependency - F)
+1. [multi-armed bandit problem](link:) 
   손잡이가 n개인 하나의 밴딧에서 가장 높은 보상을 가져올 손잡이를 선택하도록 학습
-
+  - action dependency - T, time dependeny - F, context dependency - F
 
 
 
