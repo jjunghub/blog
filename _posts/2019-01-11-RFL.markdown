@@ -22,8 +22,7 @@ deep network가 학습한 representation과 강화학습 agent의 귀납적 학�
 
 
 1. [multi-armed bandit problem](link:) 
-  손잡이가 n개인 하나의 밴딧에서 가장 높은 보상을 가져올 손잡이를 선택하도록 학습
-  - action dependency - T, time dependeny - F, context dependency - F
+: 손잡이가 n개인 하나의 밴딧에서 가장 높은 보상을 가져올 손잡이를 선택하도록 학습(action dependency - T, time dependeny - F, context dependency - F)
 
 
 
