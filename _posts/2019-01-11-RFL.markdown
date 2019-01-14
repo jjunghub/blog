@@ -10,8 +10,8 @@ tags: ['connecting the dots']
 에이전트(Agent, 행위자)와 환경(World) 상태의 상호관계를 포착하여 모델로 만든 것이 강화학습(Reinforcement learning, RL)이다.
 Deep network가 학습한 representation과 강화학습 agent의 귀납적 학습을 결합함으로써 놀라운 성과를 내기시작했다.
 
-<a href="//jjunghub.github.io/blog/assets/images/ports/diagram.png" data-lightbox="Reinforcement Learning" data-title="Reinforcement Learning">
-  <img src="//jjunghub.github.io/blog/assets/images/ports/diagram.png" title="Reinforcement Learning">
+<a href="//jjunghub.github.io/blog/assets/images/posts/diagram.png" data-lightbox="Reinforcement Learning" data-title="Reinforcement Learning">
+  <img src="//jjunghub.github.io/blog/assets/images/posts/diagram.png" title="Reinforcement Learning">
 </a>
 
 에이전트는 어떤 환경에서 어떤 액션을 취해야만 시간의 흐름에 따라 가장 큰 보상을 가져올지를 스스로 학습해야만 하며, 이러한 할인된 기대 보상(discounted expected reward)의 최적화라고 표현 할 수 있다.
