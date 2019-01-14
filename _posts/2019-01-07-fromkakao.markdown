@@ -3,7 +3,7 @@ layout: post
 title:  "What I learned from Kakao arena project"
 date:   2019-01-08 0:00:00
 author: jjung
-categories: [from mistakes, ai]
+categories: [from mistakes, machine learning]
 tags: [deeplearning, kakao]
 ---
 
