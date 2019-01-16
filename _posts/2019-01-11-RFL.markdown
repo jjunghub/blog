@@ -30,8 +30,8 @@ Deep network가 학습한 representation과 강화학습 agent의 귀납적 학�
 : 손잡이가 n개인 하나의 밴딧에서 가장 높은 보상을 가져올 손잡이를 선택하도록 학습
   (action dependency - T, time dependeny - F, context dependency - F)
 
-2. Context bandit
+2. [Context bandit](https://drive.google.com/open?id=1KGPoWWahaJjWtXWEkytoM7aqI_PJdNeu)
 : 여러개의 밴딧이 존재. 어떤 밴딧이냐에 따라 가장 높은 보상을 가져올 손잡이가 다름. 즉, 환경이 고려됨. (하지만 환경이 에이전트의 액션에 의해 변하지는 않는 단계!)
 
-
+3. MDP, OpenAI Gym
 

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Random"
+date:   2019-01-16 0:00:00
+author: jjung
+categories: ['machine learning']
+tags: ['python', 'numpy', 'random']
+---
+
+All about RANDOM
+
+머신러닝과 관련된 코딩을 하다보면 random이 참 자주 쓰인다. 매번 찾아보면서 하다가 한곳에 정리를 해놓으면 좋을것 같아서, 한 번 찾아본 것들을 정리해놓으려한다.
+
+- np.random.randn
+- np.random.rand
+- np.random.choice(n, p=)
+
