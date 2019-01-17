@@ -13,5 +13,6 @@ All about RANDOM
 
 - np.random.randn
 - np.random.rand
+- np.random.randint
 - np.random.choice(n, p=)
 
