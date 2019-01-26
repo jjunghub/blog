@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "fetch / get / retrieve"
+date:   2019-01-07 0:00:00
+author: jjung
+categories: [Tips]
+tags: [english, meaning, code]
+---
+
+코딩하면서 자주쓰고 보는 fetch, get, retrieve 의 미묘한 차이점.
+
+> fetch  : to **go** to get someone or something that **you need** and **bring** them back
+> get : to **get back** something that **you had before**
+> retrieve : to **get back** something after you have **put it** somewhere
+
+출처 : [블로그](https://nassol.tistory.com/3?fbclid=IwAR3e3ZtCh1KVJgzDP-4ZGtXTjE7g3V6wzw4za-U8mc0B6EOkkyzKXNFn3os)
+
