@@ -15,4 +15,5 @@ All about RANDOM
 - np.random.rand
 - np.random.randint
 - np.random.choice(n, p=)
+- np.random.permutation
 
